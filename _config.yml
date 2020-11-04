@@ -12,3 +12,4 @@ sass:
 plugins:
   - autoprefixer-rails
   - jekyll-seo-tag
+  - jekyll-sitemap
