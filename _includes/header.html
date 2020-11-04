@@ -5,13 +5,13 @@
     </span>
 
     <span class="navbar-brand mb-0 h1 text-muted">
-      Sysdig Labs <a class="navbar-brand mb-0 h1" href="#">> {{ site.title | escape }}</a>
+      Sysdig Labs <a class="navbar-brand mb-0 h1" href="{{ "/" | relative_url }}">> {{ site.title | escape }}</a>
     </span>
   </nav>
 
   <div class="header">
     <div class="container">
-      <h1 class="font-weight-bolder mb-3">{{ page.title }}</h1>
+      <h1 class="font-weight-bolder mb-3">{{ {{ page.title | default: site.title }}</h1>
       <p class="h4">{{ page.description }}</p>
     </div>
   </div>

@@ -1,4 +1,5 @@
 $dark: #253746;
+$orange: #ff9e1b;
 
 @import "bootstrap/bootstrap.scss";
 @import "rouge-github.scss";
@@ -44,6 +45,11 @@ h1, h2, h3, h4, h5, h6 {
     @extend .rounded;
     @extend .mb-3;
     @extend .mt-3;
+    @extend .w-100;
+  }
+
+  a {
+    color: $orange;
   }
 }
 
