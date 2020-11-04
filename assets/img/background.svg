@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1400 354"
+   version="1.1"
+   id="svg188"
+   sodipodi:docname="background.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="1536"
+     id="namedview190"
+     showgrid="false"
+     inkscape:zoom="0.95428571"
+     inkscape:cx="700"
+     inkscape:cy="177"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg188" />
+  <defs
+     id="defs3">
+    <path
+       id="a"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="b">
+    <use
+       xlink:href="#a"
+       overflow="visible"
+       id="use5" />
+  </clipPath>
+  <path
+     clip-path="url(#b)"
+     fill="#f8f8f8"
+     d="M.1 0h1400v354H.1z"
+     id="path8" />
+  <defs
+     id="defs11">
+    <path
+       id="c"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="d">
+    <use
+       xlink:href="#c"
+       overflow="visible"
+       id="use13" />
+  </clipPath>
+  <path
+     d="m 1081,391.2 c -6.6,-3.8 -8.9,-12.4 -5.1,-19.1 l 39.6,-68.6 c 3.8,-6.6 12.4,-8.9 19.1,-5.1 6.6,3.8 8.9,12.4 5.1,19.1 l -39.6,68.6 c -3.8,6.7 -12.4,9 -19.1,5.1 z"
+     clip-path="url(#d)"
+     fill="#00abc7"
+     id="path16"
+     transform="translate(108)" />
+  <defs
+     id="defs19">
+    <path
+       id="e"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="f">
+    <use
+       xlink:href="#e"
+       overflow="visible"
+       id="use21" />
+  </clipPath>
+  <path
+     d="m 417.5,-51.6 c 3,1.8 4.1,5.7 2.3,8.7 l -92.2,159.8 c -1.8,3 -5.7,4.1 -8.7,2.3 -3,-1.8 -4.1,-5.7 -2.3,-8.7 l 92.2,-159.8 c 1.7,-3 5.7,-4.1 8.7,-2.3 z"
+     clip-path="url(#f)"
+     fill="#ff9e18"
+     id="path24"
+     transform="translate(-108)" />
+  <defs
+     id="defs27">
+    <path
+       id="g"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="h">
+    <use
+       xlink:href="#g"
+       overflow="visible"
+       id="use29" />
+  </clipPath>
+  <path
+     d="m 1098.6,236.9 c -10.2,-5.9 -13.7,-19.1 -7.9,-29.3 l 142.5,-246.8 c 5.9,-10.2 19.1,-13.7 29.3,-7.9 10.2,5.9 13.7,19.1 7.9,29.3 L 1127.9,229 c -5.9,10.3 -19.1,13.8 -29.3,7.9 z"
+     clip-path="url(#h)"
+     fill="#ff5c39"
+     id="path32"
+     transform="translate(108)" />
+  <defs
+     id="defs35">
+    <path
+       id="i"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="j">
+    <use
+       xlink:href="#i"
+       overflow="visible"
+       id="use37" />
+  </clipPath>
+  <path
+     d="m 988,326.3 c -4.6,-2.7 -6.2,-8.6 -3.5,-13.2 L 1123.8,71.9 c 2.7,-4.6 8.6,-6.2 13.2,-3.5 4.6,2.7 6.2,8.6 3.5,13.2 l -139.3,241.2 c -2.7,4.6 -8.6,6.2 -13.2,3.5 z"
+     clip-path="url(#j)"
+     fill="#ff9e18"
+     id="path40"
+     transform="translate(108)" />
+  <defs
+     id="defs43">
+    <path
+       id="k"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="l">
+    <use
+       xlink:href="#k"
+       overflow="visible"
+       id="use45" />
+  </clipPath>
+  <circle
+     cx="1149.8"
+     cy="46.700001"
+     r="9.6000004"
+     clip-path="url(#l)"
+     fill="#ff9e18"
+     id="circle48"
+     transform="translate(108)" />
+  <defs
+     id="defs51">
+    <path
+       id="m"
+       d="M.1 0h1400v354H.1z" />
+  </defs>
+  <clipPath
+     id="n">
+    <use
+       xlink:href="#m"
+       overflow="visible"
+       id="use53" />
+  </clipPath>
+  <path
+     d="m 247.1,370.8 c -2.6,-1.5 -3.5,-4.9 -2,-7.5 l 34,-58.9 c 1.5,-2.6 4.9,-3.5 7.5,-2 2.6,1.5 3.5,4.9 2,7.5 l -34,58.9 c -1.5,2.6 -4.9,3.5 -7.5,2 z"
+     clip-path="url(#n)"
+     fill="#058090"
+     id="path56"
+     transform="translate(-108)" />
+  <g
+     id="g66"
+     transform="translate(-108)">
+    <defs
+       id="defs59">
+      <path
+         id="o"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="p">
+      <use
+         xlink:href="#o"
+         overflow="visible"
+         id="use61"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 210.1,107.5 c -1.1,-0.7 -1.5,-2.1 -0.9,-3.3 L 246.4,40 c 0.7,-1.1 2.1,-1.5 3.3,-0.9 1.1,0.7 1.5,2.1 0.9,3.3 l -37.2,64.2 c -0.7,1.2 -2.2,1.6 -3.3,0.9 z"
+       clip-path="url(#p)"
+       fill="#058090"
+       id="path64" />
+  </g>
+  <g
+     id="g76"
+     transform="translate(108)">
+    <defs
+       id="defs69">
+      <path
+         id="q"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="r">
+      <use
+         xlink:href="#q"
+         overflow="visible"
+         id="use71"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 1157.8,177.6 c -2.2,-1.2 -2.9,-4 -1.7,-6.2 l 113.5,-196.3 c 1.2,-2.2 4,-2.9 6.2,-1.7 2.2,1.2 2.9,4 1.7,6.2 L 1164,176 c -1.2,2.1 -4,2.9 -6.2,1.6 z"
+       clip-path="url(#r)"
+       fill="#00abc7"
+       id="path74" />
+  </g>
+  <g
+     id="g86"
+     transform="translate(-108)">
+    <defs
+       id="defs79">
+      <path
+         id="s"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="t">
+      <use
+         xlink:href="#s"
+         overflow="visible"
+         id="use81"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="M 117.5,435.2 C 96.2,422.9 88.9,395.5 101.2,374.2 L 227.9,154.5 c 12.3,-21.3 39.7,-28.6 61,-16.3 21.3,12.3 28.6,39.7 16.3,61 L 178.5,418.9 c -12.2,21.3 -39.7,28.6 -61,16.3 z"
+       clip-path="url(#t)"
+       fill="#00abc7"
+       id="path84" />
+  </g>
+  <g
+     id="g96"
+     transform="translate(108)">
+    <defs
+       id="defs89">
+      <path
+         id="u"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="v">
+      <use
+         xlink:href="#u"
+         overflow="visible"
+         id="use91"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 1187.5,526.2 c -53.2,-30.7 -71.6,-99.4 -40.9,-152.6 l 317.1,-549.7 c 30.7,-53.2 99.4,-71.6 152.6,-40.9 53.2,30.7 71.6,99.4 40.9,152.6 l -317.1,549.7 c -30.7,53.2 -99.3,71.6 -152.6,40.9 z"
+       opacity="0.25"
+       clip-path="url(#v)"
+       fill="#ffffff"
+       id="path94" />
+  </g>
+  <g
+     id="g106"
+     transform="translate(-108)">
+    <defs
+       id="defs99">
+      <path
+         id="w"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="x">
+      <use
+         xlink:href="#w"
+         overflow="visible"
+         id="use101"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m -162.2,477.3 c -53.2,-30.7 -71.6,-99.4 -40.9,-152.6 L 114,-225 c 30.7,-53.2 99.4,-71.6 152.6,-40.9 53.2,30.7 71.6,99.4 40.9,152.6 L -9.6,436.5 c -30.8,53.2 -99.4,71.6 -152.6,40.8 z"
+       opacity="0.1"
+       clip-path="url(#x)"
+       fill="#00abc7"
+       id="path104" />
+  </g>
+  <g
+     id="g116"
+     transform="translate(-108)">
+    <defs
+       id="defs109">
+      <path
+         id="y"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="z">
+      <use
+         xlink:href="#y"
+         overflow="visible"
+         id="use111"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 273.1,76.9 c 5.3,3.1 7.2,9.9 4.1,15.3 L 174.4,269.9 c -3.1,5.3 -9.9,7.2 -15.3,4.1 -5.3,-3.1 -7.2,-9.9 -4.1,-15.3 L 257.8,80.9 c 3.1,-5.3 9.9,-7.1 15.3,-4 z"
+       opacity="0.61"
+       clip-path="url(#z)"
+       fill="#ffffff"
+       id="path114" />
+  </g>
+  <g
+     id="g126">
+    <defs
+       id="defs119">
+      <path
+         id="A"
+         d="M.1 0h1400v354H.1z" />
+    </defs>
+    <clipPath
+       id="B">
+      <use
+         xlink:href="#A"
+         overflow="visible"
+         id="use121" />
+    </clipPath>
+    <path
+       d="M1222.1-160.7c19.8 11.5 26.7 37.1 15.3 56.9L854.1 559.6c-11.5 19.8-37.1 26.7-56.9 15.3-19.8-11.5-26.7-37.1-15.3-56.9l383.3-663.3c11.4-20 37.1-26.8 56.9-15.4z"
+       opacity=".25"
+       clip-path="url(#B)"
+       fill="#fff"
+       id="path124" />
+  </g>
+  <g
+     id="g136"
+     transform="translate(-108)">
+    <defs
+       id="defs129">
+      <path
+         id="C"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="D">
+      <use
+         xlink:href="#C"
+         overflow="visible"
+         id="use131"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       cx="144.3"
+       cy="299.70001"
+       r="11.1"
+       opacity="0.61"
+       clip-path="url(#D)"
+       fill="#ffffff"
+       id="circle134" />
+  </g>
+  <g
+     id="g146"
+     transform="translate(-108)">
+    <defs
+       id="defs139">
+      <path
+         id="E"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="F">
+      <use
+         xlink:href="#E"
+         overflow="visible"
+         id="use141"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 446.4,-57.2 c 3.1,1.8 4.2,5.8 2.4,9 L 388.4,56.2 c -1.8,3.1 -5.8,4.2 -9,2.4 -3.1,-1.8 -4.2,-5.8 -2.4,-9 l 60.3,-104.4 c 1.9,-3.1 5.9,-4.2 9.1,-2.4 z"
+       opacity="0.15"
+       clip-path="url(#F)"
+       fill="#00abc7"
+       id="path144" />
+  </g>
+  <g
+     id="g156"
+     transform="translate(-108)">
+    <defs
+       id="defs149">
+      <path
+         id="G"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="H">
+      <use
+         xlink:href="#G"
+         overflow="visible"
+         id="use151"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       cx="370.79999"
+       cy="73.599998"
+       r="6.5"
+       opacity="0.15"
+       clip-path="url(#H)"
+       fill="#00abc7"
+       id="circle154" />
+  </g>
+  <g
+     id="g166"
+     transform="translate(108)">
+    <defs
+       id="defs159">
+      <path
+         id="I"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="J">
+      <use
+         xlink:href="#I"
+         overflow="visible"
+         id="use161"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 1209.2,145.2 c 4,2.3 5.3,7.4 3.1,11.4 l -34.4,59.7 c -2.3,4 -7.4,5.3 -11.4,3.1 -4,-2.3 -5.3,-7.4 -3.1,-11.4 l 34.4,-59.7 c 2.3,-4 7.4,-5.4 11.4,-3.1 z"
+       opacity="0.61"
+       clip-path="url(#J)"
+       fill="#00abc7"
+       id="path164" />
+  </g>
+  <g
+     id="g176"
+     transform="translate(108)">
+    <defs
+       id="defs169">
+      <path
+         id="K"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="L">
+      <use
+         xlink:href="#K"
+         overflow="visible"
+         id="use171"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       cx="1155.3"
+       cy="238.60001"
+       r="8.3000002"
+       opacity="0.61"
+       clip-path="url(#L)"
+       fill="#00abc7"
+       id="circle174" />
+  </g>
+  <g
+     id="g186"
+     transform="translate(-108)">
+    <defs
+       id="defs179">
+      <path
+         id="M"
+         d="m 0.1,0 h 1400 V 354 H 0.1 Z" />
+    </defs>
+    <clipPath
+       id="N">
+      <use
+         xlink:href="#M"
+         overflow="visible"
+         id="use181"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       d="m 317.6,215.9 c -2.4,-1.4 -3.3,-4.6 -1.9,-7 l 56,-97.1 c 1.4,-2.4 4.6,-3.3 7,-1.9 2.4,1.4 3.3,4.6 1.9,7 l -56,97.1 c -1.4,2.5 -4.5,3.3 -7,1.9 z"
+       clip-path="url(#N)"
+       fill="#9cdee8"
+       id="path184" />
+  </g>
+</svg>

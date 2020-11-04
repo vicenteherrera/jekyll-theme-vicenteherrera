@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Deploying Fargate Scanning in your AWS Account
+description: CloudFormation template for scanning images when run in Amazon ECS + Fargate automatically using Sysdig Secure
+summary: This guide explains how to deploy Fargate Scanning features for Sysdig Secure in your AWS Account. This have been packaged using a CloudFormation template, so that deploying this functionality will take only four clicks.
 ---
 
 Configuration is loaded from `cloud-connector.yaml` file.
