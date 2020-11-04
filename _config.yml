@@ -6,10 +6,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 theme: jekyll-theme-sysdiglabs-docs
 
-gems:
-  - bootstrap
-  - autoprefixer-rails
+sass:
+  style: compact
 
 plugins:
-  - jekyll-feed
+  - bootstrap
+  - autoprefixer-rails
   - jekyll-seo-tag
