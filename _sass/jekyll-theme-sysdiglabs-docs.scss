@@ -27,11 +27,7 @@ div.highlight {
 }
 
 .summary {
-  @extend .p-4;
-  @extend .position-relative;
-  top: - $spacer * 5;
-  background: $white;
-  margin-bottom: - $spacer * 5;
+  @extend .mb-4;
 }
 
 h1, h2, h3, h4, h5, h6 {
