@@ -3,6 +3,9 @@ $orange: #ff9e1b;
 $body-color: $dark;
 $link-color: $orange;
 
+$font-size-base: 1.1rem;
+$line-height-base: 1.6;
+
 @import "bootstrap/bootstrap.scss";
 @import "rouge-github.scss";
 
