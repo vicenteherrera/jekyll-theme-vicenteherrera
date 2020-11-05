@@ -42,7 +42,11 @@ h1, h2, h3, h4, h5, h6 {
     @extend .rounded;
     @extend .mb-3;
     @extend .mt-3;
-    @extend .w-100;
+    width: 100%;
+  }
+
+  img.auto {
+    width: auto;
   }
 }
 
