@@ -1,12 +1,10 @@
 $dark: #253746;
 $orange: #ff9e1b;
+$body-color: $dark;
+$link-color: $orange;
 
 @import "bootstrap/bootstrap.scss";
 @import "rouge-github.scss";
-
-body {
-  color: $dark;
-}
 
 .header {
   @extend .jumbotron;
@@ -46,10 +44,6 @@ h1, h2, h3, h4, h5, h6 {
     @extend .mb-3;
     @extend .mt-3;
     @extend .w-100;
-  }
-
-  a {
-    color: $orange;
   }
 }
 
