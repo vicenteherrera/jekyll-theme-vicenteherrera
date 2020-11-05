@@ -12,7 +12,6 @@ $line-height-base: 1.6;
 .header {
   @extend .jumbotron;
   @extend .text-center;
-  background-image: url(/assets/img/background.svg);
   background-position-y: 50%;
   background-size: cover;
 }
