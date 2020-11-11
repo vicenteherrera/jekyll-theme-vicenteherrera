@@ -48,6 +48,12 @@ h1, h2, h3, h4, h5, h6 {
   img.auto {
     width: auto;
   }
+
+  table {
+    @extend .table;
+    @extend .table-hover;
+    @extend .table-bordered;
+  }
 }
 
 footer {
