@@ -1,11 +1,11 @@
 $dark: #253746;
-$orange: #ff9e1b;
+$orange: #ff761b;
 $body-color: $dark;
 $link-color: $orange;
 
 $font-family-sans-serif: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-$font-size-base: 1.1rem;
-$line-height-base: 1.6;
+$font-size-base: 1.0rem;
+$line-height-base: 1.4;
 
 @import "bootstrap/bootstrap.scss";
 @import "rouge-github.scss";
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
     @extend .rounded;
     @extend .mb-3;
     @extend .mt-3;
-    width: 100%;
+    /* width: 100%; */
   }
 
   img.auto {
