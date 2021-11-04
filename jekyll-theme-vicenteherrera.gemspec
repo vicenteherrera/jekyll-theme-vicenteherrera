@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-sysdiglabs-docs"
-  spec.version       = "0.1.0"
-  spec.authors       = ["Néstor Salceda"]
-  spec.email         = ["nestor.salceda@gmail.com"]
+  spec.name          = "jekyll-theme-vicenteherrera"
+  spec.version       = "0.2.0"
+  spec.authors       = ["Vicente Herrera"]
+  spec.email         = ["vicenteherrera@vicenteherrera.com"]
 
-  spec.summary       = "Theme used for sysdiglabs documentation."
-  spec.homepage      = "https://github.com/sysdiglabs/jekyll-theme-sysdiglabs-docs"
+  spec.summary       = "Theme used for vicenteherrera documentation."
+  spec.homepage      = "https://github.com/vicenteherrera/jekyll-theme-vicenteherrera"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
