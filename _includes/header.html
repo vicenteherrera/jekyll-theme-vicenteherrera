@@ -1,21 +1,11 @@
 <header class="site-header">
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <!--
-    <span class="navbar-brand mb-0 h1">
-      <img src="{{ "/assets/img/shovel.png" | relative_url }}" width="30" class="d-inline-block align-top" alt="" loading="lazy">
-    </span>
-    -->
-    <span class="navbar-brand mb-0 h1 text-white-50">
-      Vicente Herrera <a class="navbar-brand mb-0 h1" href="{{ "/" | relative_url }}">> {{ site.title | escape }}</a>
-    </span>
-  </nav>
 
-  <div class="header" style="background-image: url({{ "/assets/img/background.svg" | relative_url }}); ">
-    <div class="container">
-      <h1 class="font-weight-bold mb-3">{{ page.title | default: site.title }}</h1>
-      <p class="h4">{{ page.description }}</p>
-    </div>
-  </div>
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ "/" | relative_url }}">Vicente Herrera</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ site.title | escape }}</li>
+    </ol>
+  </nav>
 
   {% if page.summary %}
   <div class="summary container">
@@ -23,4 +13,5 @@
     <hr class="w-50"/>
   </div>
   {% endif %}
+  
 </header>
