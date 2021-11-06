@@ -59,3 +59,36 @@ h1, h2, h3, h4, h5, h6 {
 footer {
   @extend .mt-4;
 }
+
+
+
+/* Lesson and video buttons */
+
+
+
+a.solid-btn {
+  background-color: #88F;
+  color: white;
+  display: inline-block;
+  width: 370px;
+  padding: 5px 5px 5px 5px;
+  margin: 1px 1px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+}
+a.solid-btn:hover {
+  background-color: orange;
+  text-decoration: none;
+}
+a.solid-btn.lesson {
+  background-image: url(/assets/icons/book.svg);
+  padding-left: 35px;
+} 
+a.solid-btn-sm {
+  width: 85px;
+}
+a.video {
+  background-image: url(/assets/icons/youtube.svg);
+  padding-left: 35px;
+}
+
