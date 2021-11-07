@@ -64,10 +64,8 @@ footer {
 
 /* Lesson and video buttons */
 
-
-
 a.solid-btn {
-  background-color: #88F;
+  background-color: #0066B8;
   color: white;
   display: inline-block;
   width: 370px;
@@ -95,4 +93,8 @@ a.video {
 a.file {
   background-image: url(/assets/icons/file-earmark-arrow-down.svg);
   padding-left: 35px;
+}
+
+code {
+  color: #95A;
 }
