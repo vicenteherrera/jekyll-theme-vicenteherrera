@@ -1,0 +1,12 @@
+/* Modify this absolute URLs to match your site path */
+
+a.solid-btn.lesson {
+    background-image: url(/assets/icons/book.svg);
+  } 
+  a.video {
+    background-image: url(/assets/icons/youtube.svg);
+  }
+  
+  a.file {
+    background-image: url(/assets/icons/file-earmark-arrow-down.svg);
+  }
