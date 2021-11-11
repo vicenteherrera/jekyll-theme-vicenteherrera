@@ -93,12 +93,21 @@ a.video {
   background-image: url(../../assets/icons/youtube.svg);
   padding-left: 35px;
 }
-
 a.file {
   background-image: url(../../assets/icons/file-earmark-arrow-down.svg);
   padding-left: 35px;
 }
-
 code {
   color: #95A;
+}
+
+@media screen and (max-width: 500px) {
+  a.solid-btn {
+      width: 100%;
+      line-height: 2;
+  }
+  a.solid-btn-sm {
+      width: 100px;
+      margin-left: 35px;
+  }
 }
