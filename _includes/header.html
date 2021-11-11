@@ -2,8 +2,41 @@
 
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="{{ "/" | relative_url }}">Vicente Herrera</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{{ site.title | escape }}</li>
+      <li class="breadcrumb-item"><a href="https://vicenteherrera.com">vicenteherrera.com</a></li>
+      <li class="breadcrumb-item"><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></li>
+      {% if page.breadcrumb1 %}
+      <li class="breadcrumb-item" >
+        {% if page.breadcrumb1_link %}
+        <a href="{{ page.breadcrumb1_link }}">
+        {% endif %}  
+        {{ page.breadcrumb1 }}    
+        {% if page.breadcrumb1_link %}
+        </a>
+        {% endif %}
+      </li>
+      {% endif %}
+      {% if page.breadcrumb2 %}
+      <li class="breadcrumb-item" >
+        {% if page.breadcrumb2_link %}
+        <a href="{{ page.breadcrumb2_link }}">
+        {% endif %}  
+        {{ page.breadcrumb2 }}    
+        {% if page.breadcrumb2_link %}
+        </a>
+        {% endif %}
+      </li>
+      {% endif %}
+      {% if page.breadcrumb3 %}
+      <li class="breadcrumb-item" >
+        {% if page.breadcrumb3_link %}
+        <a href="{{ page.breadcrumb3_link }}">
+        {% endif %}  
+        {{ page.breadcrumb3 }}    
+        {% if page.breadcrumb3_link %}
+        </a>
+        {% endif %}
+      </li>
+      {% endif %}
     </ol>
   </nav>
 
